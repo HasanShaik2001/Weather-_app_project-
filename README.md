@@ -11,11 +11,17 @@
 
 ### Explanation:
 
-### HTML: The basic structure of the app, including an input field for the city, a button to fetch the weather, and a div to display the results.
+### HTML: 
 
-### CSS: Simple styling to make the app look clean and centered.
+The basic structure of the app, including an input field for the city, a button to fetch the weather, and a div to display the results.
 
-### JavaScript:Adds an event listener to the button.Fetches weather data from OpenWeatherMap API when the button is clicked.Parses the JSON response and displays the weather information.
+### CSS:
+
+Simple styling to make the app look clean and centered.
+
+### JavaScript:
+
+Adds an event listener to the button.Fetches weather data from OpenWeatherMap API when the button is clicked.Parses the JSON response and displays the weather information.
 
 ### Running the App:
 
